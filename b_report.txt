@@ -1,0 +1,15 @@
+New bug report
+    1.Bug ID
+    2.Bug title
+    3.Build
+    4.Environment
+    5.Steps to reproduce
+    6.Expected result
+    7.Actual result
+    8.Severity
+    9.Priority
+    10.Assigned to
+    11.Reported by
+    12.Reported on
+    13.Status
+    14.Attachments
