@@ -1,0 +1,5 @@
+New checklist
+    1.ID
+    2.Title(What to test?)
+    3.Result
+    4.Comments
